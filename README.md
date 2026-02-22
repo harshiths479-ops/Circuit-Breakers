@@ -9,11 +9,13 @@ Team Members-Harshith S
              Impana V
  
 Wearable Health Monitoring & Emergency Alert System
-📌 Overview
+
+ Overview
 This project is a wearable IoT-based health monitoring device designed to detect abnormal heart rate, SpO₂ levels, and sudden falls.
 In case of emergency, the system automatically sends an alert message along with GPS location using GSM.
 The goal is to reduce emergency response time and improve patient safety.
-🔧 Components Used
+
+Components Used
 ESP32 / Arduino
 MAX30102 (Heart Rate & SpO₂ Sensor)
 MPU6050 (Fall Detection)
@@ -24,7 +26,7 @@ Buzzer
 Rechargeable Battery
 
 Prototype Images & Explanation
-🖼️ 1️⃣ Complete Prototype Setup
+ 1️⃣ Complete Prototype Setup
 (Insert image of full assembled device)
 Description: This image shows the fully assembled wearable health monitoring system.
 All sensors and communication modules are connected to the microcontroller.
