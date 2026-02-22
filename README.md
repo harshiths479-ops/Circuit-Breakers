@@ -26,6 +26,7 @@ Buzzer
 Rechargeable Battery
 
 Prototype Images & Explanation
+
  1️⃣ Complete Prototype Setup
 (Insert image of full assembled device)
 Description: This image shows the fully assembled wearable health monitoring system.
